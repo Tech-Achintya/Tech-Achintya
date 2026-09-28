@@ -71,10 +71,9 @@ I'm a Computer Science undergraduate (B.E. CSE, Chandigarh University, expected 
 **Core Concepts:** Data Structures & Algorithms · OOP · DBMS · Operating Systems · Computer Networks · System Design
 
 ---
-
 ## 📌 Featured Projects
 
-### 🧑‍💻 Collaborative Workspace Platform &nbsp;·&nbsp; [Live Demo]([Achintya@2602](https://workspace-collaborative.vercel.app/)) &nbsp;·&nbsp; [Source]([YOUR_REPO_LINK](https://github.com/Tech-Achintya/collaborative-editor))
+### 🧑‍💻 Collaborative Workspace Platform &nbsp;·&nbsp; [Live Demo](https://workspace-collaborative.vercel.app/) &nbsp;·&nbsp; [Source](https://github.com/Tech-Achintya/collaborative-editor)
 A real-time collaborative code editor where multiple users edit the same file simultaneously without conflicts.
 - **Yjs CRDTs** over **WebSocket (STOMP)** and **Server-Sent Events** for conflict-free concurrent editing, with no centralized locking
 - **OAuth2** authentication and a **batched write-behind persistence layer** that efficiently saves workspace and editor state to PostgreSQL
@@ -84,7 +83,7 @@ A real-time collaborative code editor where multiple users edit the same file si
 
 ---
 
-### 🔄 E-Exchange Platform &nbsp;·&nbsp; [Live Demo]([YOUR_LIVE_LINK](https://frontend-eexchange.vercel.app/)) &nbsp;·&nbsp; [Source]([YOUR_REPO_LINK](https://github.com/Tech-Achintya/Eexchange))
+### 🔄 E-Exchange Platform &nbsp;·&nbsp; [Live Demo](https://frontend-eexchange.vercel.app/) &nbsp;·&nbsp; [Source](https://github.com/Tech-Achintya/Eexchange)
 A full-stack marketplace where users can list items and exchange them with others.
 - **JWT-based authentication** with user-based access control over item visibility and interactions
 - Item discovery, search and filtering for finding relevant listings
